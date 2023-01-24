@@ -1,0 +1,6 @@
+User Selected Option 3: ID: 100 Title: at nam consequatur ea labore ea harum
+User Selected Option 1: Number of Post is 100
+User Selected Option 2: ID: 12 Title: in quibusdam tempore odit est dolorem
+User Selected Option 2: ID: 1234Invalid post requested by the User
+User Selected Option 3: ID: 37 Title: provident vel ut sit ratione est
+User Selected Option 3: ID: 15 Title: eveniet quod temporibus
