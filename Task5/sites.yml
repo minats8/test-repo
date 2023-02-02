@@ -1,0 +1,22 @@
+address: 
+  - google.com:443
+  - google.com:801
+  - go.dev:443
+  - mongodb.com:443
+  - google.com:343
+  - go.dev:80
+  - educative.io:443
+  - facebook.com:44
+  - instagram.com:443
+  - youtube.com:443
+  - youtube.com:80
+  - wikipedia.com:443
+  - linuxhint.com:443
+  - linuxhint.com:80
+  - golangbot.com:443
+  - postgresql.org:443
+  - victoriametrics.com:80
+  - victoriametrics.com:443
+  - twitter.com:443
+  - github.com:443
+  - linode.com:443
